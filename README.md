@@ -10,7 +10,7 @@
 
 #### Example: `docker run -d -p 8000:8000 my-image`
 
-## If you want to add a volume for to keep the database so you need to use this command:
+### If you want to add a volume for to keep the database so you need to use this command:
 
 #### `docker run -d -p <your_port>:8000 -v <your_folder_path>:/app/database <name_of_image>`
 
